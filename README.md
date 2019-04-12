@@ -1,2 +1,2 @@
-# test-obj.-1
-test obj. 1
+This file is a test file for everything else stored here.
+Beware of the broken proxys and files.
